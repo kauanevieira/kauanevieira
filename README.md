@@ -1,4 +1,4 @@
-# Hi there, I'm Kauane Vieira 👋
+# Hi there, I'm Kauane Vieira <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 🔭 I’m currently working as Designer
 - 🌱 I’m learning about HTML, CSS, JavaScript, Git, Node.js, React.js
