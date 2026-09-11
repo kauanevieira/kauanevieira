@@ -62,3 +62,5 @@ Engenheira de software sênior com foco em aplicações web de alto tráfego, at
 ## GitHub stats
 
 ![kauanevieira github stats](https://github-readme-stats.vercel.app/api?username=kauanevieira&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/alesandraisla/alesandraisla/blob/output/github-contribution-grid-snake.svg)
